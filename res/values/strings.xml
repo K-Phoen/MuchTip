@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Much Tip</string>
+    <string name="action_settings">Settings</string>
+    <string name="amount_label">J\'ai payé</string>
+    <string name="will_tip_label">Je tip</string>
+    <string name="satisfaction_label">Le service était</string>
+
+</resources>
